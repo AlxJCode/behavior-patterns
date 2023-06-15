@@ -1,0 +1,12 @@
+{
+  "name": "patrones-clase-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chainOfResponsability.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
